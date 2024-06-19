@@ -8,7 +8,7 @@ OWNER = int(os.environ.get("OWNER", "6299192020"))
 BOT_USERNAME = os.environ.get('BOT_USERNAME', "Yolhcyxiy_bot")
 
 FORCE_SUBS = os.environ.get("FORCE_SUBS", "-1002005436412")
-LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002201298270"))
+LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002040299414"))
 
 DB_URL = os.environ.get("DB_URL", "mongodb+srv://Speedwolf1:speedwolf24689@cluster0.rgfywsf.mongodb.net/")
 DB_NAME = os.environ.get("DB_NAME", "Speedwolf1")
